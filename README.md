@@ -55,7 +55,8 @@ Download Python from the [official website](https://python.org).
 ### 2️⃣ **Clone the Repository**  
 Use the following commands:  
 ```bash  
-git clone https://github.com/yourusername/Python_Practices.git  
+git clone https://github.com/adeelasaleem694/Python_Practices.git
+
 cd Python_Practices  
 ```  
 
