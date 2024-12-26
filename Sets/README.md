@@ -39,6 +39,6 @@ Used frozenset, handled errors, and calculated Jaccard similarity.
 Found subsets and Cartesian products of sets.
 
 
-Explore the solutions for detailed examples!
+Explore the solutions for detailed examples!.
 
 
