@@ -1,44 +1,121 @@
-**PandasPractice - Set Operations**
+PandasPractice - Set Operations
 
-This repository contains Python solutions for various set operations. Key highlights:
-
-**Basics:**
-
-Created, added, removed, and cleared elements in sets.
-
-Checked element existence in a set.
+A collection of Python solutions for practicing set operations.
 
 
-Set Methods:
+---
 
-Performed union, intersection, difference, and symmetric difference.
+Key Topics Covered
 
-Checked subsets and supersets.
+Basics
 
-
-Advanced:
-
-Removed duplicates from a list.
-
-Found unique characters in strings and common elements in sets.
-
-Created sets for squares and prime numbers.
+1. Create a set and print its length.
 
 
-Applications:
-
-Found duplicates, unique words, and common students in datasets.
-
-Filtered even numbers and vowels using sets.
+2. Add and remove elements (remove() vs. discard()).
 
 
-Challenges:
-
-Used frozenset, handled errors, and calculated Jaccard similarity.
-
-Found subsets and Cartesian products of sets.
+3. Clear a set and check element existence.
 
 
-Explore the solutions for detailed examples!.
 
+Set Methods
+
+4. Union, intersection, difference, and symmetric difference.
+
+
+5. Check subsets and supersets.
+
+
+
+Advanced Manipulations
+
+6. Remove duplicates from a list.
+
+
+7. Find unique characters in a string.
+
+
+8. Common elements between sets.
+
+
+9. Squares of numbers (1–10).
+
+
+
+Applications
+
+10. Union of three sets.
+
+
+11. Find elements in one set but not in another.
+
+
+12. Count unique words in a sentence.
+
+
+13. Identify duplicates in a list.
+
+
+14. Common students between two groups.
+
+
+
+Mathematical Operations
+
+15. Cartesian product of two sets.
+
+
+16. Prime numbers (<50).
+
+
+17. Check disjoint sets.
+
+
+18. Divisors of a number.
+
+
+
+Special Challenges
+
+19. Use frozenset and show immutability.
+
+
+20. Union of multiple sets in a list.
+
+
+21. Generate random sets.
+
+
+22. Find all subsets of a set.
+
+
+
+Functions and Error Handling
+
+23. Largest element and removing negatives from sets.
+
+
+24. Check set equality.
+
+
+25. Handle missing elements and type conversion errors.
+
+
+
+Practice Examples
+
+26. Unique and duplicate elements in sets.
+
+
+27. Jaccard similarity coefficient.
+
+
+
+
+---
+
+Explore
+
+Practice and master Python sets with concise examples!
 
