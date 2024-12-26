@@ -1,8 +1,8 @@
-PandasPractice - Set Operations
+**PandasPractice - Set Operations**
 
 This repository contains Python solutions for various set operations. Key highlights:
 
-Basics:
+**Basics:**
 
 Created, added, removed, and cleared elements in sets.
 
